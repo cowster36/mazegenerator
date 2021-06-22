@@ -1,0 +1,6 @@
+#define IDR_MYMENU 101
+#define IDI_MYICON 201
+
+#define ID_OPTIONS_GEN 9001
+#define ID_OPTIONS_EXIT 9003
+

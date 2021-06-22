@@ -1,0 +1,12 @@
+#include "resource.h"
+
+IDR_MYMENU MENU
+BEGIN
+    POPUP "&Options"
+    BEGIN
+        MENUITEM "Generate New Maze", ID_OPTIONS_GEN
+        MENUITEM "Exit", ID_OPTIONS_EXIT
+    END
+END
+
+IDI_MYICON ICON "menu_one.ico"
